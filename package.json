@@ -1,6 +1,6 @@
 {
   "author": "David Jeusette",
-  "name": "queue",
+  "name": "dqueue",
   "version": "0.0.1",
   "description": "Simple queue",
   "main": "lib/main",
